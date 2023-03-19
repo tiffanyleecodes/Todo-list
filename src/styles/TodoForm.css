@@ -1,0 +1,30 @@
+form {
+  padding: 0 1rem;
+}
+
+input {
+  width: 70%;
+  border-radius: 0.2rem;
+  border: none;
+  padding: 0.2rem 0 0.2rem 0.4rem;
+}
+
+hr {
+  margin: 1.2rem 0;
+  opacity: 0.7;
+}
+.add {
+  background-color: #f6f6f6;
+  border: none;
+  color: #023246;
+  padding: 0.2rem 1rem;
+  border-radius: 0.2rem;
+  margin-left: 0.5rem;
+  letter-spacing: 0.1rem;
+}
+
+.add:hover {
+  background-color: brown;
+  color: #f6f6f6;
+  cursor: pointer;
+}

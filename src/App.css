@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap");
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  background-color: #d4d4ce;
+}
+.App {
+  text-align: center;
+  background-color: #023246;
+  border-radius: 0.5rem;
+  padding: 2rem 1rem;
+  width: 80vw;
+  margin: 5rem 1rem;
+}
+
+h1 {
+  color: #f6f6f6;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+  .App {
+    width: 60vw;
+  }
+}
+
+@media (min-width: 1024px) {
+  .App {
+    max-width: 500px;
+  }
+}
