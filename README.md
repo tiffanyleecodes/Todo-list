@@ -1,6 +1,6 @@
 # Todo list
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site here](https://ephemeral-nasturtium-5f722b.netlify.app/)
 
 ## Table of contents
 
